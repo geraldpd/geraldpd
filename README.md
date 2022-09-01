@@ -30,22 +30,6 @@ Experienced full stack software engineer with a demonstrated history of creating
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/geraldpd"><img src="https://github-readme-stats.vercel.app/api?username=geraldpd&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="geraldpd's GitHub stats" /></a>
-
-<a href="https://github.com/geraldpd" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldpd&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
-
-
-
-
-
-
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=geraldpd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geraldpd&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldpd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
